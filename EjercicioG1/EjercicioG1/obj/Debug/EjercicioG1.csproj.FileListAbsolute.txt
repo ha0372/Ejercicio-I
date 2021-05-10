@@ -1,0 +1,10 @@
+C:\Users\crobe\Documents\GitHub\Ejercicio-I\EjercicioG1\EjercicioG1\bin\Debug\EjercicioG1.exe.config
+C:\Users\crobe\Documents\GitHub\Ejercicio-I\EjercicioG1\EjercicioG1\bin\Debug\EjercicioG1.exe
+C:\Users\crobe\Documents\GitHub\Ejercicio-I\EjercicioG1\EjercicioG1\bin\Debug\EjercicioG1.pdb
+C:\Users\crobe\Documents\GitHub\Ejercicio-I\EjercicioG1\EjercicioG1\obj\Debug\EjercicioG1.csprojAssemblyReference.cache
+C:\Users\crobe\Documents\GitHub\Ejercicio-I\EjercicioG1\EjercicioG1\obj\Debug\EjercicioG1.Form1.resources
+C:\Users\crobe\Documents\GitHub\Ejercicio-I\EjercicioG1\EjercicioG1\obj\Debug\EjercicioG1.Properties.Resources.resources
+C:\Users\crobe\Documents\GitHub\Ejercicio-I\EjercicioG1\EjercicioG1\obj\Debug\EjercicioG1.csproj.GenerateResource.cache
+C:\Users\crobe\Documents\GitHub\Ejercicio-I\EjercicioG1\EjercicioG1\obj\Debug\EjercicioG1.csproj.CoreCompileInputs.cache
+C:\Users\crobe\Documents\GitHub\Ejercicio-I\EjercicioG1\EjercicioG1\obj\Debug\EjercicioG1.exe
+C:\Users\crobe\Documents\GitHub\Ejercicio-I\EjercicioG1\EjercicioG1\obj\Debug\EjercicioG1.pdb
